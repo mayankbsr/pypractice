@@ -54,3 +54,6 @@ if __name__ ==  "__main__":
 # constant ping by clients
 # send from another PC on same network
 # send from another PC on different network e.g the internet
+# Replace threading with select
+# Create socket with contextual declaration "with" to close when it goes out of scope
+# Use classes and OOP
